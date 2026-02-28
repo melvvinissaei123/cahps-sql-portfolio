@@ -53,7 +53,7 @@ I created a simulated database with 5 fictional health plans and their members. 
 
 I built an interactive dashboard where you can select any health plan and see its star rating, member satisfaction, and year-over-year improvement.
 
-> 🔗 *[Tableau Dashboard link coming soon]*
+> 🔗 (https://public.tableau.com/views/CAHPSStarsTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
