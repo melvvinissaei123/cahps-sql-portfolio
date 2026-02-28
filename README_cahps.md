@@ -1,116 +1,79 @@
 # 🏥 CAHPS & STAR Ratings SQL Portfolio
-
-A healthcare data analytics portfolio project analyzing **member experience (CAHPS) survey data** and **CMS STAR ratings** across simulated health plans. Built to demonstrate entry-level SQL skills relevant to **Healthcare Data Analyst** roles.
-
----
-
-## 📂 Repository Structure
-
-```
-cahps-sql-portfolio/
-│
-├── cahps_schema.sql            ← Database schema + simulated seed data
-├── cahps_portfolio_queries.sql ← Portfolio SQL queries
-└── README.md                   ← You are here
-```
+**By Melvin Issaei | Healthcare Data Analyst**
 
 ---
 
-## 🗄️ Database Schema Overview
+## 👋 What is this project?
 
-A simulated managed care database with **5 related tables** modeled after real-world health plan data structures:
+This project analyzes **member experience data** for health insurance plans using SQL and Tableau. I built a database that tracks how members rate their health plans (called CAHPS scores) and the overall quality ratings plans receive from Medicare (called STAR ratings).
 
-```
-HealthPlan_T ──┬──► Member_T ──────► CAHPSSurvey_T
-               ├──► STARMeasure_T
-               └──► Member_T ───────► Outreach_T
-```
+---
 
-| Table | Description |
+## 📂 What's in this project?
+
+| File | What it does |
 |---|---|
-| `HealthPlan_T` | Health plans with CMS Star Ratings and plan type |
-| `Member_T` | Enrolled members with demographics and plan assignment |
-| `CAHPSSurvey_T` | CAHPS survey responses by member and measurement year |
-| `STARMeasure_T` | CMS STAR measure scores per plan per year |
-| `Outreach_T` | Quality improvement outreach activities per member |
+| `cahps_schema.sql` | Creates the database and loads all the data |
+| `cahps_portfolio_queries.sql` | All the SQL queries I wrote to analyze the data |
 
 ---
 
-## 🔍 SQL Skills Demonstrated
+## 🗄️ What data am I working with?
 
-### 1. JOINs with Aliases (AS)
+I created a simulated database with 5 fictional health plans and their members. The database tracks:
 
-| Query | Description | Business Use Case |
-|---|---|---|
-| 1.1 Member Survey Overview | INNER JOIN across 3 tables with aliases | Member-level CAHPS reporting |
-| 1.2 Plan-Level Score Summary | JOIN + GROUP BY + AVG | Comparing plan CAHPS performance |
-| 1.3 Outreach Activity Report | Multi-table JOIN | Tracking QI outreach efforts |
-| 1.4 STAR Measure Performance | JOIN + filter by measure type | Identifying low-scoring CAHPS measures |
-
-### 2. CASE WHEN (IF/THEN Logic)
-
-| Query | Description | Business Use Case |
-|---|---|---|
-| 2.1 Member Satisfaction Tier | CASE WHEN on rating score | Segmenting members for outreach |
-| 2.2 STAR Rating Performance Flag | CASE WHEN on star value | QI prioritization reporting |
-| 2.3 Outreach Effectiveness | CASE WHEN on result + method | Measuring outreach campaign ROI |
-
-### 3. Aggregate Functions (COUNT, AVG, SUM)
-
-| Query | Description | Business Use Case |
-|---|---|---|
-| 3.1 Plan Scorecard | COUNT + AVG + SUM + CASE | Executive CAHPS KPI dashboard |
-| 3.2 Year-Over-Year Trend | Conditional aggregation across years | Tracking score improvement over time |
-| 3.3 Outreach Success Rate | SUM + calculated percentage | Quality team performance reporting |
+- 🏢 **Health Plans** — plan names, types, and their STAR ratings
+- 👥 **Members** — who is enrolled in each plan
+- 📋 **CAHPS Surveys** — how members rated their experience (0-10 scale)
+- ⭐ **STAR Measures** — CMS quality scores per plan
+- 📞 **Outreach Activities** — follow-up efforts to improve member satisfaction
 
 ---
 
-## 📊 Linked Tableau Public Dashboards
+## 💡 What SQL skills does this show?
 
-| Dashboard | Key Metrics |
-|---|---|
-| **Member Experience Overview** | Plan ratings by member, satisfaction tiers, survey volume |
-| **STAR Ratings & CAHPS Performance** | Measure scores vs. star targets, plan comparisons |
-| **Outreach & Quality Improvement** | Outreach success rates, year-over-year CAHPS trends |
+**🔗 JOINs** — connecting multiple tables together to answer questions like *"which members gave low ratings and which plan are they on?"*
 
-> 🔗 (https://public.tableau.com/views/CAHPSStarsTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**↔️ CASE WHEN** — writing IF/THEN logic in SQL, like categorizing members into satisfaction groups: Promoter, Neutral, At Risk, or Detractor
+
+**🔢 Aggregate Functions** — using COUNT, AVG, and SUM to calculate things like average plan ratings and outreach success rates
 
 ---
 
-## 💡 Key Findings
+## 🔍 What did I find?
 
-- **PremierCare PPO (HP003)** consistently scored highest across all CAHPS domains, averaging above 9/10 on member satisfaction
-- **ValleyHealth Medicare (HP004)** showed the lowest scores and highest outreach activity — a candidate for targeted quality improvement initiatives
-- Year-over-year analysis shows **all plans improved** their Health Plan Rating scores from 2022 to 2023, with PremierCare leading at +3 points
-- **Phone outreach** had the highest reach rate compared to mail and email channels
-
----
-
-## ⚙️ How to Run
-
-1. Ensure you have **MySQL 8.0+** installed
-2. Create and select your database:
-   ```sql
-   CREATE DATABASE cahps_db;
-   USE cahps_db;
-   ```
-3. Load the schema and seed data:
-   ```sql
-   source /path/to/cahps_schema.sql
-   ```
-4. Run the portfolio queries:
-   ```sql
-   source /path/to/cahps_portfolio_queries.sql
-   ```
+- ⭐ **PremierCare PPO** had the highest member satisfaction — all members were Promoters
+- ⚠️ **ValleyHealth Medicare** had the lowest scores and needed the most outreach
+- 📈 Every health plan improved their CAHPS scores from 2022 to 2023
+- 📞 Phone outreach had the highest success rate compared to email and mail
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Tableau Dashboard
 
-- **MySQL** — Query execution
-- **Tableau Public** — Data visualization
-- **GitHub** — Version control and portfolio hosting
+I built an interactive dashboard where you can select any health plan and see its star rating, member satisfaction, and year-over-year improvement.
+
+> 🔗 https://public.tableau.com/views/CAHPSStarsTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
-*Simulated dataset designed to reflect real-world CAHPS survey and CMS STAR rating structures. All member and plan names are fictional.*
+## ⚙️ How to run this project
+
+1. Install MySQL
+2. Create a database:
+```sql
+CREATE DATABASE cahps_db;
+USE cahps_db;
+```
+3. Load the data:
+```sql
+source /your/path/cahps_schema.sql
+```
+4. Run the queries:
+```sql
+source /your/path/cahps_portfolio_queries.sql
+```
+
+---
+
+*💡 All data in this project is simulated and fictional. Built as a healthcare data analytics portfolio project.*
