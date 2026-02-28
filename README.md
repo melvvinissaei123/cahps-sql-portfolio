@@ -73,7 +73,7 @@ HealthPlan_T ──┬──► Member_T ──────► CAHPSSurvey_T
 | **STAR Ratings & CAHPS Performance** | Measure scores vs. star targets, plan comparisons |
 | **Outreach & Quality Improvement** | Outreach success rates, year-over-year CAHPS trends |
 
-> 🔗 *[Insert your Tableau Public profile link here]*
+> 🔗 (https://public.tableau.com/views/CAHPSStarsTrends/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
