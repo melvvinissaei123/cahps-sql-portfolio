@@ -1,0 +1,581 @@
+contract_id,hd1_staying_healthy,hd2_chronic_conditions,hd3_member_experience,hd4_complaints,hd5_customer_service
+H0028,3,4,4,3,4
+H0034,2,3,2,4,3
+H0074,2,2,4,3,Not enough data available
+H0104,4,3,5,5,4
+H0107,4,3,3,5,5
+H0111,3,3,3,3,3
+H0154,3,4,5,4,3
+H0169,3,4,3,3,4
+H0174,3,3,4,3,3
+H0251,2,3,4,5,4
+H0270,2,3,Not enough data available,3,Not enough data available
+H0292,4,4,5,4,5
+H0294,3,3,3,4,4
+H0302,4,4,3,4,3
+H0321,3,3,Not enough data available,4,4
+H0332,4,4,4,4,5
+H0351,2,3,2,4,4
+H0354,4,4,3,3,4
+H0421,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H0423,4,4,Not enough data available,3,3
+H0432,3,3,4,3,4
+H0439,4,3,4,3,4
+H0473,3,3,4,4,4
+H0504,4,3,2,4,4
+H0523,3,3,2,3,4
+H0524,5,4,3,5,4
+H0543,4,3,2,3,5
+H0544,3,3,1,3,4
+H0562,4,3,2,4,4
+H0571,4,3,1,4,Not enough data available
+H0609,5,4,3,5,4
+H0624,3,4,Not enough data available,3,4
+H0628,3,3,4,4,4
+H0630,5,4,3,4,4
+H0672,3,3,2,2,4
+H0710,Not enough data available,4,Not enough data available,4,4
+H0712,4,3,3,4,4
+H0724,Not enough data available,2,Not enough data available,4,Not enough data available
+H0755,4,3,4,4,4
+H0845,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H0885,4,3,4,4,4
+H0907,2,3,4,3,Not enough data available
+H0908,1,3,3,3,5
+H0913,3,3,Not enough data available,3,3
+H0976,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H0978,3,4,2,4,Not enough data available
+H0982,3,3,5,3,Not enough data available
+H1016,5,4,4,4,4
+H1019,4,4,4,3,5
+H1032,3,3,4,4,3
+H1035,4,3,4,4,4
+H1036,4,4,4,3,4
+H1045,4,4,4,4,4
+H1099,3,4,4,5,4
+H1109,4,4,4,4,5
+H1112,3,3,3,3,3
+H1119,Not enough data available,4,Not enough data available,5,Not enough data available
+H1170,5,4,4,5,5
+H1189,3,2,5,4,3
+H1206,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1215,2,3,4,3,Not enough data available
+H1224,3,3,2,3,4
+H1225,4,3,2,4,3
+H1230,5,4,3,5,Not enough data available
+H1248,4,3,5,5,4
+H1278,4,3,3,4,5
+H1285,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1290,4,4,4,3,5
+H1304,3,3,3,4,4
+H1339,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1350,3,3,3,4,4
+H1360,3,3,3,3,4
+H1365,4,3,4,3,Not enough data available
+H1395,2,3,3,3,Not enough data available
+H1416,2,2,4,4,3
+H1423,4,3,2,3,4
+H1463,4,3,4,4,3
+H1468,4,4,4,3,4
+H1526,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1537,5,3,4,4,5
+H1607,4,3,3,3,5
+H1608,3,4,4,4,4
+H1609,4,4,4,4,4
+H1610,2,3,3,3,3
+H1619,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1644,Not enough data available,Not enough data available,Not enough data available,Not enough data available,2
+H1659,3,3,4,4,Not enough data available
+H1664,2,2,3,3,Not enough data available
+H1666,4,2,3,4,4
+H1692,2,3,5,4,4
+H1722,3,2,3,4,Not enough data available
+H1774,Not enough data available,3,Not enough data available,4,Not enough data available
+H1799,2,2,4,3,Not enough data available
+H1822,3,4,Not enough data available,3,Not enough data available
+H1846,3,2,4,4,Not enough data available
+H1862,3,Not enough data available,2,4,Not enough data available
+H1889,3,3,4,3,4
+H1894,2,3,Not enough data available,3,Not enough data available
+H1914,3,3,3,3,5
+H1947,3,3,4,2,Not enough data available
+H1951,3,4,5,4,4
+H1961,3,4,5,4,3
+H1969,4,4,4,4,Not enough data available
+H1993,4,3,4,4,Not enough data available
+H1994,4,4,4,4,4
+H1997,4,3,2,4,Not enough data available
+H2001,4,3,4,5,4
+H2032,4,3,5,4,3
+H2041,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2056,3,3,2,4,5
+H2096,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2108,4,3,2,3,4
+H2117,2,3,3,3,4
+H2128,2,2,3,3,Not enough data available
+H2162,2,2,3,3,Not enough data available
+H2168,4,4,2,3,3
+H2172,5,4,3,5,4
+H2174,2,3,Not enough data available,3,Not enough data available
+H2224,4,3,2,5,5
+H2225,4,4,4,4,3
+H2226,5,4,3,4,5
+H2230,5,4,3,5,5
+H2235,5,4,5,4,4
+H2237,3,3,3,4,4
+H2246,3,4,4,4,Plan too new to be measured
+H2247,2,3,3,3,5
+H2256,5,3,4,4,4
+H2261,4,3,3,5,5
+H2292,3,4,Not enough data available,4,4
+H2293,4,4,4,4,4
+H2320,5,4,4,5,4
+H2322,4,4,3,4,4
+H2354,4,4,4,4,4
+H2392,Not enough data available,5,Not enough data available,Not enough data available,Not enough data available
+H2400,Not enough data available,4,Not enough data available,5,3
+H2406,4,4,3,4,4
+H2416,3,4,4,4,Not enough data available
+H2419,3,3,3,4,Not enough data available
+H2422,3,4,3,5,Not enough data available
+H2425,3,4,3,4,Not enough data available
+H2441,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2445,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2450,3,3,4,5,5
+H2456,3,3,3,5,4
+H2458,3,4,3,4,3
+H2459,4,3,4,4,4
+H2461,4,3,4,5,5
+H2463,3,3,3,3,Not enough data available
+H2486,4,3,3,3,4
+H2491,2,3,2,3,3
+H2526,Plan too new to be measured,Plan too new to be measured,5,Plan too new to be measured,Plan too new to be measured
+H2563,3,2,3,4,3
+H2582,3,3,3,4,4
+H2593,3,2,Not enough data available,4,5
+H2610,5,4,5,4,4
+H2624,5,4,5,5,Not enough data available
+H2663,4,4,4,4,4
+H2686,Plan too new to be measured,Plan too new to be measured,3,4,Plan too new to be measured
+H2697,4,4,4,4,4
+H2722,3,3,Not enough data available,3,Not enough data available
+H2737,4,4,3,5,Not enough data available
+H2775,3,3,2,3,3
+H2802,4,3,4,4,4
+H2816,3,2,4,4,Not enough data available
+H2819,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2836,4,3,3,3,4
+H2875,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2915,2,3,3,3,5
+H2942,Plan too new to be measured,4,4,5,3
+H2960,4,4,4,5,4
+H2962,4,4,4,4,4
+H3015,1,2,3,4,3
+H3038,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3047,1,2,3,3,Not enough data available
+H3048,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3071,3,3,Not enough data available,3,3
+H3080,Plan too new to be measured,4,3,3,Plan too new to be measured
+H3113,3,3,3,3,5
+H3124,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3138,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3146,4,4,4,4,4
+H3152,3,3,4,4,4
+H3170,3,Not enough data available,4,Not enough data available,Not enough data available
+H3192,2,4,4,3,4
+H3204,4,3,3,4,4
+H3219,4,4,4,5,3
+H3239,2,3,4,3,4
+H3240,3,3,3,4,5
+H3251,4,3,2,4,5
+H3256,4,4,5,3,4
+H3259,2,3,5,4,4
+H3276,4,3,Not enough data available,5,Not enough data available
+H3288,3,3,4,4,4
+H3305,5,3,5,4,4
+H3307,3,3,Not enough data available,3,4
+H3312,3,3,4,4,4
+H3330,4,3,2,5,4
+H3335,4,3,4,5,3
+H3344,5,4,5,5,4
+H3347,3,3,4,4,4
+H3351,4,3,4,5,3
+H3359,5,4,3,4,5
+H3362,5,4,5,5,4
+H3379,3,3,3,4,4
+H3384,4,4,4,5,5
+H3387,4,4,3,4,4
+H3388,5,4,5,5,4
+H3404,5,3,5,5,4
+H3418,4,3,1,4,4
+H3443,4,4,2,3,4
+H3447,3,3,4,4,4
+H3449,4,3,5,4,4
+H3499,2,2,4,3,Not enough data available
+H3528,4,3,3,4,4
+H3533,3,3,3,3,4
+H3536,3,3,3,3,Not enough data available
+H3551,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3554,3,3,4,4,3
+H3557,5,4,4,5,3
+H3561,3,3,Not enough data available,1,Not enough data available
+H3597,5,4,4,5,4
+H3653,4,3,5,5,2
+H3655,3,3,4,4,5
+H3660,4,4,5,5,3
+H3664,4,3,5,5,5
+H3668,3,3,5,4,4
+H3672,2,3,5,5,4
+H3706,4,4,4,5,3
+H3748,4,4,2,3,4
+H3755,4,3,4,5,4
+H3777,5,4,4,3,4
+H3794,3,4,4,4,4
+H3800,2,4,Not enough data available,5,2
+H3805,4,3,3,4,4
+H3810,2,2,3,5,4
+H3811,4,3,2,4,2
+H3814,2,2,2,3,4
+H3815,4,4,2,4,4
+H3817,4,3,3,4,4
+H3822,4,3,3,4,4
+H3832,4,3,3,4,4
+H3864,4,3,3,4,3
+H3890,4,3,3,4,3
+H3907,4,4,5,5,4
+H3909,4,4,4,4,4
+H3916,4,3,4,5,5
+H3923,4,3,4,5,5
+H3924,4,4,5,5,4
+H3928,3,4,5,3,Not enough data available
+H3931,3,3,3,4,4
+H3949,4,4,3,3,4
+H3952,4,4,4,5,4
+H3954,3,4,4,4,4
+H3957,3,4,5,4,5
+H3959,3,4,5,4,4
+H3962,3,3,5,4,4
+H3975,2,3,4,3,Not enough data available
+H3979,3,3,4,4,5
+H4003,4,4,3,4,5
+H4004,4,4,3,3,5
+H4005,4,3,3,5,Not enough data available
+H4007,4,4,4,3,4
+H4036,4,3,3,5,5
+H4045,4,3,1,5,3
+H4054,Not enough data available,3,Not enough data available,4,2
+H4073,3,3,Not enough data available,3,5
+H4140,4,4,5,4,4
+H4141,4,4,4,3,4
+H4152,4,4,4,4,4
+H4161,3,3,Plan too new to be measured,3,4
+H4172,Not enough data available,4,Not enough data available,4,Not enough data available
+H4213,2,2,4,4,4
+H4227,4,3,4,4,4
+H4279,2,4,4,4,4
+H4286,5,5,5,5,5
+H4346,3,2,Not enough data available,3,5
+H4407,4,4,5,4,4
+H4439,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4444,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4461,4,4,5,4,4
+H4471,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4497,4,3,5,4,4
+H4499,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4506,4,3,3,4,3
+H4513,4,4,5,4,4
+H4514,4,3,4,3,5
+H4523,3,3,4,4,4
+H4527,4,4,4,4,5
+H4544,3,3,3,3,Not enough data available
+H4604,4,4,3,5,4
+H4605,4,3,5,5,4
+H4618,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4623,3,4,3,3,5
+H4624,3,3,3,3,3
+H4647,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4661,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4676,3,2,4,3,Not enough data available
+H4694,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4704,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4711,2,3,3,3,4
+H4733,4,3,2,4,Plan too new to be measured
+H4754,2,2,4,5,3
+H4801,3,3,3,4,5
+H4835,2,3,2,3,4
+H4847,3,3,3,3,Not enough data available
+H4868,3,3,Not enough data available,4,4
+H4875,4,4,4,5,4
+H4882,5,3,4,4,4
+H4909,3,3,3,4,4
+H4931,3,3,3,4,4
+H4937,4,2,1,3,4
+H4961,5,4,4,4,5
+H4982,3,3,1,2,3
+H5008,3,3,2,3,4
+H5009,3,3,2,4,4
+H5010,4,3,3,4,Not enough data available
+H5015,Not enough data available,5,Not enough data available,5,Not enough data available
+H5042,5,4,5,5,5
+H5050,4,4,3,5,4
+H5087,3,3,Not enough data available,3,4
+H5106,3,3,5,4,5
+H5141,5,4,3,4,4
+H5163,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5209,3,3,3,3,4
+H5211,4,3,4,4,3
+H5215,4,4,5,5,4
+H5216,4,4,4,4,4
+H5244,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5253,4,3,4,5,4
+H5262,5,3,4,4,3
+H5273,5,3,4,4,4
+H5294,3,3,3,3,4
+H5296,5,5,5,4,Not enough data available
+H5299,Plan too new to be measured,Plan too new to be measured,5,3,Plan too new to be measured
+H5302,3,4,4,3,5
+H5309,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5322,3,3,4,3,5
+H5325,3,4,5,4,4
+H5361,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5374,Not enough data available,4,Not enough data available,4,Not enough data available
+H5377,4,3,4,3,5
+H5386,5,4,4,4,4
+H5398,3,3,3,3,Not enough data available
+H5410,3,3,3,2,4
+H5420,4,4,4,4,5
+H5422,3,3,4,3,5
+H5425,4,4,3,4,4
+H5427,4,4,3,4,5
+H5431,4,4,5,4,5
+H5433,3,3,1,4,4
+H5434,4,3,4,4,4
+H5435,2,2,3,4,4
+H5439,3,3,2,4,5
+H5453,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5471,4,4,4,3,5
+H5475,2,3,3,3,3
+H5496,4,4,Not enough data available,2,4
+H5521,4,4,4,5,4
+H5522,3,4,4,4,4
+H5525,3,3,4,3,4
+H5526,5,4,4,4,5
+H5533,4,4,5,4,4
+H5549,5,5,2,3,4
+H5577,4,4,4,4,5
+H5580,3,3,2,3,4
+H5587,2,3,2,3,2
+H5590,3,3,2,4,5
+H5591,4,3,4,4,3
+H5593,3,4,4,3,5
+H5594,4,5,4,4,5
+H5599,2,3,3,3,3
+H5608,4,4,3,4,Not enough data available
+H5619,3,4,3,4,4
+H5628,3,3,3,3,4
+H5649,4,3,1,3,4
+H5652,5,4,4,5,4
+H5718,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5774,4,4,3,3,4
+H5779,3,3,2,2,4
+H5793,3,3,3,4,4
+H5810,3,3,Not enough data available,4,3
+H5823,3,3,1,4,4
+H5826,4,3,2,4,2
+H5828,2,3,3,3,5
+H5843,3,3,3,4,4
+H5852,4,3,3,Not enough data available,Not enough data available
+H5854,4,3,3,3,5
+H5859,3,4,2,4,4
+H5883,4,4,4,5,5
+H5900,3,3,5,5,3
+H5926,3,3,2,4,4
+H5928,4,3,Not enough data available,4,4
+H5932,3,3,5,4,4
+H5937,3,3,3,5,3
+H5938,5,4,5,4,4
+H5943,3,2,Not enough data available,3,Not enough data available
+H5945,4,4,3,4,4
+H5959,4,3,4,5,4
+H5965,2,2,Not enough data available,2,Not enough data available
+H5969,2,2,3,3,Not enough data available
+H5970,3,3,4,4,4
+H5989,4,3,2,3,5
+H5991,3,3,Not enough data available,3,Not enough data available
+H5995,2,2,2,4,Not enough data available
+H6019,4,3,2,5,4
+H6078,4,3,4,5,4
+H6154,3,3,4,4,Not enough data available
+H6158,3,3,4,4,3
+H6170,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6200,5,3,4,4,Plan too new to be measured
+H6202,3,3,5,4,3
+H6237,5,4,2,4,4
+H6248,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6306,5,4,5,5,3
+H6322,3,2,3,3,4
+H6348,2,2,3,3,Not enough data available
+H6396,3,4,3,3,5
+H6399,2,3,3,3,Not enough data available
+H6453,3,3,4,4,4
+H6474,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6529,4,Not enough data available,5,Not enough data available,Not enough data available
+H6545,Plan too new to be measured,Plan too new to be measured,3,3,Plan too new to be measured
+H6550,2,3,3,3,Not enough data available
+H6595,2,3,4,2,5
+H6622,3,4,4,3,4
+H6713,2,2,3,3,4
+H6723,4,3,5,4,5
+H6727,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6743,3,2,3,4,3
+H6815,3,3,2,3,4
+H6851,1,3,1,Not enough data available,Not enough data available
+H6874,3,3,4,5,Not enough data available
+H6876,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6898,4,3,3,5,3
+H6910,3,4,4,5,Not enough data available
+H6988,4,5,4,3,3
+H7006,4,2,3,4,Not enough data available
+H7020,3,3,5,4,4
+H7028,Plan too new to be measured,Plan too new to be measured,5,4,Plan too new to be measured
+H7063,4,3,4,4,3
+H7093,3,3,3,3,5
+H7115,4,3,4,4,3
+H7123,3,2,4,Not enough data available,3
+H7147,Plan too new to be measured,4,3,4,Plan too new to be measured
+H7149,3,4,4,4,4
+H7151,4,4,3,4,5
+H7169,1,2,3,3,Not enough data available
+H7175,2,3,Not enough data available,3,Not enough data available
+H7199,Plan too new to be measured,Plan too new to be measured,3,3,Plan too new to be measured
+H7220,4,3,4,4,4
+H7239,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H7284,4,4,3,2,4
+H7301,3,3,4,4,3
+H7323,3,2,4,3,Not enough data available
+H7326,3,3,4,3,4
+H7330,2,2,1,3,Not enough data available
+H7355,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H7379,4,3,4,5,Not enough data available
+H7389,2,Not enough data available,Not enough data available,2,4
+H7397,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H7464,3,3,4,3,4
+H7471,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H7518,1,2,4,3,Not enough data available
+H7522,2,3,4,Not enough data available,Not enough data available
+H7559,2,2,3,3,Not enough data available
+H7605,Plan too new to be measured,Plan too new to be measured,4,3,Plan too new to be measured
+H7607,4,4,Not enough data available,3,3
+H7617,4,4,5,5,4
+H7646,4,4,5,5,4
+H7670,3,3,4,5,Not enough data available
+H7678,3,2,3,2,5
+H7680,4,4,4,3,4
+H7710,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H7787,4,3,3,4,4
+H7849,3,3,3,3,4
+H7917,3,4,5,5,4
+H7925,3,3,Not enough data available,4,Not enough data available
+H7980,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H7993,5,5,4,4,5
+H8003,3,3,4,5,4
+H8010,4,5,2,4,4
+H8070,4,3,4,5,Plan too new to be measured
+H8093,Not enough data available,5,Not enough data available,5,Not enough data available
+H8133,3,2,3,4,4
+H8142,4,3,5,4,4
+H8145,3,3,5,4,4
+H8166,4,4,3,4,5
+H8173,4,5,3,4,5
+H8176,2,2,3,2,5
+H8181,4,3,4,4,4
+H8189,3,3,4,3,5
+H8211,3,2,4,4,4
+H8298,3,3,3,4,4
+H8320,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8330,4,3,2,4,4
+H8332,4,4,4,4,4
+H8379,3,4,4,3,4
+H8385,5,4,4,4,Not enough data available
+H8432,3,3,3,4,4
+H8547,4,Not enough data available,4,4,Not enough data available
+H8552,2,2,Not enough data available,4,5
+H8553,2,2,Not enough data available,3,Not enough data available
+H8554,3,Not enough data available,Not enough data available,3,4
+H8578,4,3,3,5,3
+H8597,3,3,3,3,4
+H8604,4,3,5,4,Not enough data available
+H8634,4,3,3,4,4
+H8649,2,3,3,3,5
+H8764,5,4,2,4,3
+H8768,4,3,3,4,4
+H8783,4,4,4,5,Not enough data available
+H8794,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8823,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8832,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8849,4,3,Not enough data available,3,5
+H8854,4,3,3,3,4
+H8879,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8889,4,3,4,5,3
+H8894,3,3,3,5,3
+H8908,3,3,Not enough data available,3,4
+H8917,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8928,4,4,3,4,4
+H8947,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9001,4,3,4,4,4
+H9003,5,4,2,5,4
+H9042,4,Not enough data available,5,Not enough data available,Not enough data available
+H9047,4,4,3,5,4
+H9065,4,3,2,4,4
+H9096,4,4,4,4,4
+H9147,3,3,3,3,Not enough data available
+H9179,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9191,2,4,Not enough data available,4,2
+H9207,4,3,3,4,4
+H9219,4,3,3,3,Not enough data available
+H9306,4,3,3,4,Not enough data available
+H9364,3,3,2,4,3
+H9387,1,2,3,3,Not enough data available
+H9431,3,3,2,3,4
+H9460,2,3,3,2,Not enough data available
+H9485,5,Plan too new to be measured,4,Plan too new to be measured,Plan too new to be measured
+H9525,3,3,4,4,5
+H9529,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9572,5,4,4,5,4
+H9585,4,4,3,4,Not enough data available
+H9615,4,3,4,5,4
+H9630,2,3,4,3,4
+H9656,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9686,4,4,3,4,3
+H9690,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9699,3,3,4,4,4
+H9700,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9706,4,3,3,3,5
+H9725,4,3,5,3,4
+H9730,2,3,4,3,3
+H9763,5,4,4,4,Not enough data available
+H9808,4,4,5,4,4
+H9834,4,4,4,4,4
+H9884,3,4,3,3,Not enough data available
+H9900,1,2,Not enough data available,1,Not enough data available
+H9904,3,Not enough data available,3,4,Not enough data available
+H9907,5,3,3,4,4
+H9946,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9952,3,4,2,4,Not enough data available
+H9955,2,3,3,3,4
+H9968,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+R0110,2,3,4,4,4
+R0759,3,3,4,4,4
+R1532,2,3,4,4,4
+R2604,4,3,4,3,4
+R3444,3,3,3,3,4
+R4182,3,3,4,4,5
+R4487,3,3,4,4,5
+R5342,3,3,3,3,4
+R5361,3,3,4,4,4
+R5826,3,3,3,4,4
+R5941,3,2,4,4,Not enough data available
+R6694,4,3,4,5,Not enough data available
+R6801,3,3,4,3,4
+R7220,2,3,Not enough data available,4,5
+R7444,4,3,3,4,4
