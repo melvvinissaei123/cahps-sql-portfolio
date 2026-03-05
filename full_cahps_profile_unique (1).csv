@@ -1,0 +1,223 @@
+Contract_ID,Plan_Name,Overall_Stars,Member Experience (HD3),Getting_Needed_Care,Getting_Care_Quickly,Customer_Service,Rating_Health_Quality,Rating_Health_Plan,Care_Coordination
+H0028,Humana,3.5,4,3,4,4,3,4,3
+H0034,"Hamaspik, Inc.",2.5,2,1,3,1,Not enough data available,1,Not enough data available
+H0074,Wellcare,3,4,4,4,4,Not enough data available,2,Not enough data available
+H0104,Blue Cross and Blue Shield of Alabama,4,5,5,5,5,4,5,3
+H0107,Blue Cross and Blue Shield of Montana,3.5,3,3,3,3,3,3,3
+H0154,VIVA Medicare,4,5,5,5,5,5,5,3
+H0169,UnitedHealthcare,4,3,3,4,3,3,4,3
+H0302,Blue Cross Blue Shield of Arizona (AZ Blue),3.5,3,2,2,4,3,3,2
+H0332,KelseyCare Advantage,4.5,4,2,1,5,5,5,4
+H0351,Wellcare by Allwell,3,2,3,2,3,1,1,Not enough data available
+H0354,Cigna Healthcare,4,3,3,4,3,3,4,2
+H0504,Blue Shield of California,3.5,2,2,1,3,3,4,1
+H0523,Aetna Medicare,3,2,1,3,Not enough data available,1,1,Not enough data available
+H0524,Kaiser Permanente,4.5,3,2,2,5,3,4,2
+H0544,Anthem Blue Cross,3,1,1,1,1,Not enough data available,2,Not enough data available
+H0562,Wellcare by Health Net,3,2,2,1,2,2,2,2
+H0571,CCHP (Chinese Community Health Plan),2.5,1,1,1,1,1,2,1
+H0885,Braven Health,3.5,4,3,4,3,4,4,3
+H0907,Wellpoint,3.5,4,5,5,3,4,3,5
+H0976,SCAN Health Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H0982,Solis Health Plans,4,5,5,5,5,5,5,5
+H1016,AvMed Medicare,4.5,4,3,4,5,4,4,5
+H1019,"CarePlus Health Plans, Inc.",4,4,3,4,4,5,5,3
+H1035,Florida Blue HMO,3.5,4,3,4,3,4,4,3
+H1099,"Health First Health Plans, Inc.",4.5,4,4,4,5,5,4,4
+H1189,CHRISTUS Health Advantage,3.5,5,5,5,4,5,4,5
+H1224,L.A. Care Health Plan,3,2,2,1,1,3,3,1
+H1225,Johns Hopkins Advantage MD,3,2,2,1,3,3,2,3
+H1248,Blue Cross and Blue Shield of Louisiana,4.5,5,5,5,5,5,5,5
+H1285,UnitedHealthcare Community Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1290,Devoted Health,4.5,4,3,4,5,3,5,4
+H1304,Regence BlueShield of Idaho,3.5,3,4,4,4,3,2,3
+H1350,Blue Cross of Idaho,3.5,3,3,2,3,3,3,4
+H1365,Martin's Point Generations Advantage,3,4,3,4,5,3,4,3
+H1463,Health Alliance Medicare,3.5,4,3,4,5,4,4,4
+H1526,Gold Kidney Health Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1607,Anthem Blue Cross and Blue Shield,3.5,3,3,4,3,3,2,4
+H1610,Aetna Better Health of Virginia,3,3,3,3,3,4,4,3
+H1619,Jefferson Health Plans,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H1666,"Blue Cross and Blue Shield of NM, TX",3,3,3,3,2,3,2,3
+H1722,Healthfirst Medicare Plan,3,3,3,2,3,3,2,Not enough data available
+H1799,Passport Advantage,3.5,4,4,4,4,4,4,5
+H1846,MediGold,4,4,5,5,4,4,4,4
+H1947,Healthy Blue,3.5,4,4,4,3,5,4,4
+H1961,Peoples Health,4,5,5,4,5,5,5,5
+H1993,Astiva Health,4,4,5,Not enough data available,5,3,4,5
+H1994,Select Health,4,4,4,5,3,4,4,4
+H1997,Regence BlueShield,3,2,1,1,5,2,1,4
+H2032,Baylor Scott & White Health Plan,3.5,5,5,5,4,5,4,5
+H2096,Shared Health Dual Freedom,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H2168,VillageCareMAX,3,2,2,3,1,2,2,3
+H2224,Senior Whole Health,3.5,2,2,3,1,2,3,3
+H2225,Commonwealth Care Alliance Massachusetts,3.5,4,3,3,4,4,5,2
+H2230,Blue Cross Blue Shield of Massachusetts,3.5,3,2,2,4,2,3,2
+H2235,BayCare Health Plans,4,5,5,4,4,5,5,5
+H2237,iCare,3.5,3,3,3,3,3,4,3
+H2256,Tufts Health Plan,4,4,3,3,4,5,5,4
+H2320,Priority Health Medicare,4.5,4,3,4,5,4,4,5
+H2322,HAP Senior Plus (PPO),4,3,3,4,4,3,3,3
+H2354,HAP Senior Plus,4,4,3,3,4,3,4,4
+H2416,PrimeWest Health,4,4,4,4,4,3,4,4
+H2419,South Country Health Alliance,3,3,3,2,4,3,2,3
+H2422,HealthPartners,4,3,3,2,3,4,4,4
+H2425,Blue Plus,3.5,3,3,3,3,4,4,3
+H2450,Medica,4,4,5,5,4,4,3,5
+H2456,UCare's MSHO,3.5,3,2,3,3,4,3,4
+H2459,UCare,4,4,3,3,4,4,5,5
+H2461,Blue Cross and Blue Shield of Minnesota,4.5,4,3,3,4,4,5,5
+H2563,Sentara Medicare,3,3,3,3,3,3,3,3
+H2610,Essence Healthcare,4.5,5,5,5,5,5,5,5
+H2624,CARE N' CARE INSURANCE COMPANY OF NORTH CAROLINA,4,5,5,5,5,4,5,5
+H2737,Health New England Medicare Advantage Plans,3.5,3,2,1,5,2,3,3
+H2942,Cox HealthPlans,4,4,4,3,4,4,3,4
+H2960,Senior Care Plus,4,4,4,4,4,4,3,5
+H2962,Ultimate Health Plans,4,4,3,4,4,3,5,2
+H3015,Shared Health Dual Plus,3,3,3,4,3,Not enough data available,4,3
+H3038,Molina Healthcare of California,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3048,SECUR Health Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3170,Blue Cross and Blue Shield of Nebraska,3.5,4,5,5,Not enough data available,4,2,4
+H3204,Presbyterian Health Plan,3,3,1,2,4,3,3,3
+H3219,Allina Health Aetna Medicare,4,4,3,3,3,4,4,4
+H3251,Blue Cross and Blue Shield of New Mexico,3,2,1,1,3,1,2,Not enough data available
+H3259,BlueCare Plus Tennessee,4.5,5,5,5,5,5,5,4
+H3305,MVP HEALTH CARE,4.5,5,4,5,5,4,5,4
+H3330,EmblemHealth,3.5,2,3,1,3,2,2,2
+H3335,"Excellus Health Plan, Inc",4,4,4,5,4,3,3,3
+H3344,Independent Health,4.5,5,5,5,5,5,5,4
+H3347,Elderplan,3.5,4,4,3,3,5,5,4
+H3384,Highmark Blue Cross Blue Shield or Highmark Blue S,4.5,4,5,5,3,4,2,3
+H3388,CDPHP Medicare Advantage,4.5,5,5,5,5,5,5,4
+H3404,Blue Cross and Blue Shield of North Carolina,4.5,5,4,5,5,5,5,5
+H3443,Alignment Health Plan,3.5,2,1,2,3,3,3,1
+H3447,Anthem HealthKeepers,3.5,4,4,4,3,3,2,5
+H3528,ConnectiCare,3.5,3,3,3,3,3,2,3
+H3551,eternalHealth,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H3554,Arkansas Blue Medicare,3,4,4,4,3,4,2,4
+H3557,Blue Cross & Blue Shield of Rhode Island,4.5,4,4,4,5,4,5,4
+H3653,Paramount Elite Medicare Plans,4,5,5,4,5,5,5,5
+H3660,SummaCare Medicare Advantage Plans,4.5,5,5,5,5,5,5,5
+H3664,PrimeTime Health Plan,4.5,5,5,5,5,5,5,5
+H3672,The Health Plan,4.5,5,5,5,5,5,5,5
+H3706,GlobalHealth,4,4,5,4,5,4,4,3
+H3755,CommunityCare Senior Health Plan (HMO),4,4,4,4,5,4,5,3
+H3777,Experience Health,4,4,3,4,4,5,4,5
+H3810,AllCare Advantage,3,3,2,3,4,3,3,2
+H3811,Samaritan Advantage Health Plans,3,2,2,1,3,2,2,3
+H3814,ATRIO Health Plans,2.5,2,2,1,3,1,2,3
+H3817,Regence BlueCross BlueShield of Oregon,3.5,3,2,1,5,3,2,2
+H3822,"Blue Cross and Blue Shield of IL, NM",4,3,3,3,3,4,2,4
+H3832,HMSA Akamai Advantage,3.5,3,3,3,2,3,3,3
+H3864,PacificSource Medicare,3.5,3,2,2,5,2,4,4
+H3907,UPMC for Life,4.5,5,5,5,5,5,5,5
+H3909,Independence Blue Cross,4,4,3,4,5,4,4,3
+H3923,Capital Blue Cross,4.5,4,5,4,4,4,4,5
+H3924,Geisinger Gold,4.5,5,3,4,5,5,5,5
+H3979,Blue Cross and Blue Shield of Oklahoma,4,4,5,4,4,4,4,4
+H4003,Medicare y Mucho Mas,4.5,3,2,2,3,4,5,3
+H4004,PMC Medicare Choice,4,3,1,4,3,4,5,3
+H4005,Triple-S Advantage,3.5,3,1,3,2,4,4,3
+H4045,Santa Clara Family Health Plan,3,1,1,1,1,2,2,1
+H4140,"Doctors HealthCare Plans, Inc.",4,5,4,5,5,5,5,5
+H4161,Anthem Blue Cross Partnership Plan,3,Plan too new to be measured,1,Not enough data available,Not enough data available,Not enough data available,1,Not enough data available
+H4227,VISTA Health Plan Inc.,3.5,4,5,4,4,4,4,5
+H4279,UPMC for Life Complete Care,4,4,3,3,4,4,5,4
+H4286,"Leon Health, Inc.",5,5,5,5,5,5,5,5
+H4439,Provider Partners Health Plans,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4444,Provider Partners Health Plan of Indiana,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4497,Medical Mutual of Ohio,4,5,5,4,5,5,5,5
+H4605,Regence BlueCross BlueShield of Utah,4,5,5,5,4,5,4,4
+H4618,"Sonder Health Plans, Inc.",Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4624,Zing Health,3.5,3,3,2,4,2,3,3
+H4647,UCLA Health Medicare Advantage Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4676,Troy Medicare,3.5,4,4,4,5,3,4,5
+H4704,Anthem Blue Cross Life and Health Insurance Compan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H4733,Community Health Group,3,2,2,1,3,3,4,1
+H4801,"Blue Cross and Blue Shield of OK, TX",3,3,4,4,3,3,2,4
+H4931,Banner Medicare Advantage,3.5,3,3,3,1,4,4,2
+H5010,Asuris Northwest Health,3,3,3,2,3,3,2,3
+H5106,Highmark Blue Cross Blue Shield,4.5,5,5,5,5,4,5,5
+H5141,Clover Health,4,3,3,2,3,4,3,4
+H5163,Verda Health Plan of Texas,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5209,My Choice Wisconsin,3.5,3,2,4,3,2,1,4
+H5211,"Security Health Plan of Wisconsin, Inc.",4,4,3,4,5,2,3,5
+H5215,Network Health Medicare Advantage Plans,5,5,5,5,5,5,5,5
+H5244,SCAN Health Plan New Mexico,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5262,Quartz Medicare Advantage,4,4,3,4,5,5,4,5
+H5273,CarePartners of Connecticut,3.5,4,3,3,3,5,4,3
+H5361,AmeriHealth,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H5386,Sharp Health Plan,4,4,2,2,5,5,5,3
+H5427,"Freedom Health, Inc.",4,3,2,4,2,2,3,3
+H5431,"HealthSun Health Plans, Inc.",5,5,5,5,5,5,5,5
+H5433,CalOptima Health OneCare,2.5,1,1,1,1,1,2,1
+H5434,Florida Blue,3.5,4,4,4,3,4,3,4
+H5471,"Simply Healthcare Plans, Inc.",4.5,4,4,4,4,5,5,4
+H5549,VNS Health Medicare,3.5,2,2,3,1,2,2,1
+H5577,MCS Classicare,5,4,2,3,4,5,5,4
+H5580,Mercy Care Advantage,2.5,2,2,2,2,2,3,1
+H5587,BCBSAZ Health Choice,3,2,2,1,3,2,3,1
+H5594,"Optimum HealthCare, Inc.",5,4,5,5,3,4,5,4
+H5599,Wellcare by Fidelis Care,3.5,3,4,4,1,3,2,4
+H5608,Elevate Medicare Advantage,3.5,3,3,1,3,4,2,4
+H5628,Molina Healthcare of Utah & Idaho,3,3,3,3,1,3,2,3
+H5649,Central Health Medicare Plan,2.5,1,1,1,1,1,1,1
+H5774,Triple S Advantage,4,3,1,3,3,5,5,3
+H5823,"Molina Healthcare of Washington, Inc.",3,1,1,2,1,1,1,2
+H5826,Community Health Plan of WA Medicare Advantage,3,2,1,1,3,2,2,2
+H5852,AHF,3.5,3,3,3,2,3,3,Not enough data available
+H5859,CareOregon Advantage,3.5,2,1,1,1,2,3,Not enough data available
+H5883,Blue Care Network,4.5,4,4,4,3,4,4,4
+H5900,Wellmark Advantage Health Plan,4.5,5,5,5,4,5,4,5
+H5926,Molina Healthcare of Michigan,3,2,3,2,3,1,1,3
+H5932,Highmark Wholecare Medicare Assured,4.5,5,5,4,4,5,5,4
+H5938,Capital Health Plan,4.5,5,5,5,5,5,5,2
+H5945,Prominence Health Plan,4,3,3,3,3,4,4,3
+H5969,AlohaCare,3,3,3,2,2,4,3,Not enough data available
+H6019,HEALTH PLAN OF SAN MATEO,3,2,1,1,2,3,2,1
+H6078,Blue Medicare Advantage,3,4,3,3,3,4,5,3
+H6170,Champion Heath Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6202,NextBlue of North Dakota,4,5,5,5,5,4,4,5
+H6306,FirstMedicare Direct,4,5,5,5,5,5,5,5
+H6322,McLaren Medicare,3,3,4,3,4,4,2,3
+H6396,CareSource,3.5,3,4,3,3,3,2,4
+H6399,Aetna Better Health of New Jersey,3,3,4,4,2,3,2,3
+H6474,Champion Health Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6529,MyTruAdvantage,4,5,4,5,5,5,4,5
+H6727,University of Michigan Health Plan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H6851,WellSense Health Plan,2.5,1,1,1,2,Not enough data available,1,Not enough data available
+H6874,Aspirus Health Plan,4,4,5,4,4,3,3,5
+H6898,Vermont Blue Advantage,3.5,3,3,3,4,3,2,3
+H6910,Saint Alphonsus Health Plan,4,4,3,3,4,4,4,4
+H6988,Centers Plan for Healthy Living,3.5,4,4,4,3,3,3,4
+H7063,Blue Cross and Blue Shield of Kansas,3.5,4,5,5,4,4,2,3
+H7115,Memorial Hermann Health Plan,3.5,4,5,4,3,5,4,4
+H7220,Indiana University Health Plans,3.5,4,3,3,4,4,4,4
+H7379,CareFirst BlueCross BlueShield Medicare Advantage,3.5,4,5,4,3,4,3,4
+H7559,Molina Healthcare of Virginia,2.5,3,3,2,1,3,2,4
+H7670,Mass Advantage,3.5,4,3,4,4,4,3,3
+H7678,"Molina Healthcare of Texas, Inc.",3,3,3,3,2,4,2,3
+H7917,BlueCross BlueShield of Tennessee,4.5,5,5,5,5,5,5,5
+H8003,Blue Cross Blue Shield of South Carolina,4,4,4,5,5,3,4,3
+H8133,Blue Cross and Blue Shield of Texas,3.5,3,3,Not enough data available,3,3,3,4
+H8176,Molina Healthcare of South Carolina,3,3,3,4,3,3,2,4
+H8298,Horizon Blue Cross Blue Shield of New Jersey,3.5,3,2,3,3,3,4,3
+H8385,Align powered by Sanford Health Plan,4.5,4,5,4,3,4,4,5
+H8547,Blue Cross and Blue Shield of Illinois,3.5,4,3,Not enough data available,3,4,3,5
+H8764,Aspire Health,3,2,2,1,4,2,3,2
+H8879,"Healthy Mississippi, Inc.",Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H8894,IEHP DualChoice,3,3,3,2,4,3,4,1
+H8928,Fallon Health,3.5,3,3,3,3,3,5,1
+H8947,Peak Health,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9047,Providence Medicare Advantage Plans,4,3,2,2,4,3,4,4
+H9065,AMH Health,3,2,3,2,Not enough data available,2,1,3
+H9096,Dean Advantage,4,4,3,3,4,4,2,5
+H9179,Trinity Health Plan of Michigan,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9306,Alterwood Advantage,3.5,3,4,3,4,3,3,3
+H9485,Mass General Brigham Health Plan,3.5,4,3,5,2,5,4,5
+H9529,WyoBlue Advantage,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9572,Blue Cross Blue Shield of Michigan,4.5,4,4,5,3,3,4,3
+H9690,American Health Advantage of Indiana,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
+H9763,Ochsner Health Plan,3.5,4,3,2,4,5,4,5
+H9955,Molina Healthcare of Ohio,3,3,4,4,1,3,1,4
+H9968,American Health Advantage of Pennsylvania,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured,Plan too new to be measured
