@@ -42,7 +42,7 @@ I used real CMS data to answer: **which health plans are near the bonus threshol
 
 ## Tableau Dashboard
 
-🔗 https://public.tableau.com/shared/XGFCBTFGD?:display_count=n&:origin=viz_share_link
+🔗 [https://public.tableau.com/shared/XGFCBTFGD?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/2025HealthPlanAssessment/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
